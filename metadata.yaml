@@ -1,0 +1,31 @@
+_repo: Options_1583
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henry, O.
+    alias: Porter, William Sidney
+    birthdate: 1862
+    deathdate: 1910
+    gutenberg_agent_id: '634'
+    url: http://www.gutenberg.org/2009/agents/634
+    wikipedia: http://en.wikipedia.org/wiki/O._Henry
+description: ''
+gutenberg_issued: '1998-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1583'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: '"The rose of Dixie" -- The third ingredient -- The hiding of Black
+  Bill -- Schools and schools -- Thimble, thimble -- Supply and demand -- Buried treasure
+  -- To him who waits -- He also serves -- The moment of victory -- The head-hunter
+  -- No story -- The higher pragmatism -- Best-seller -- Rus in urbe -- A poor rule.'
+title: Options
+url: http://www.gutenberg.org/ebooks/1583
